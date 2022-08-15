@@ -1,0 +1,274 @@
+{
+    "items": [
+      {
+        "content": {
+          "columns": [
+            {
+              "items": [
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "NORMAL_BOLD",
+                    "label": "Benešov"
+                  },
+                  "type": "TEXT"
+                },
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "SMALL_LIGHT",
+                    "label": "Karla Nového"
+                  },
+                  "type": "TEXT"
+                }
+              ]
+            }
+          ]
+        },
+        "type": "MULTI_COLUMN_ITEM"
+      },
+      {
+        "content": {
+          "columns": [
+            {
+              "items": [
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "NORMAL_BOLD",
+                    "label": "Beroun"
+                  },
+                  "type": "TEXT"
+                },
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "SMALL_LIGHT",
+                    "label": "Husovo nám."
+                  },
+                  "type": "TEXT"
+                }
+              ]
+            }
+          ]
+        },
+        "type": "MULTI_COLUMN_ITEM"
+      },
+      {
+        "content": {
+          "columns": [
+            {
+              "items": [
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "NORMAL_BOLD",
+                    "label": "Brno"
+                  },
+                  "type": "TEXT"
+                },
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "SMALL_LIGHT",
+                    "label": "Milady Horákové"
+                  },
+                  "type": "TEXT"
+                }
+              ]
+            }
+          ]
+        },
+        "type": "MULTI_COLUMN_ITEM"
+      },
+      {
+        "content": {
+          "columns": [
+            {
+              "items": [
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "NORMAL_BOLD",
+                    "label": "Brno"
+                  },
+                  "type": "TEXT"
+                },
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "SMALL_LIGHT",
+                    "label": "Veveří"
+                  },
+                  "type": "TEXT"
+                }
+              ]
+            }
+          ]
+        },
+        "type": "MULTI_COLUMN_ITEM"
+      },
+      {
+        "content": {
+          "columns": [
+            {
+              "items": [
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "NORMAL_BOLD",
+                    "label": "Česká Lípa"
+                  },
+                  "type": "TEXT"
+                },
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "SMALL_LIGHT",
+                    "label": "Barvířská"
+                  },
+                  "type": "TEXT"
+                }
+              ]
+            }
+          ]
+        },
+        "type": "MULTI_COLUMN_ITEM"
+      },
+      {
+        "content": {
+          "columns": [
+            {
+              "items": [
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "NORMAL_BOLD",
+                    "label": "České Budějovice"
+                  },
+                  "type": "TEXT"
+                },
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "SMALL_LIGHT",
+                    "label": "Hroznová"
+                  },
+                  "type": "TEXT"
+                }
+              ]
+            }
+          ]
+        },
+        "type": "MULTI_COLUMN_ITEM"
+      },
+      {
+        "content": {
+          "columns": [
+            {
+              "items": [
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "NORMAL_BOLD",
+                    "label": "České Budějovice"
+                  },
+                  "type": "TEXT"
+                },
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "SMALL_LIGHT",
+                    "label": "Lannova"
+                  },
+                  "type": "TEXT"
+                }
+              ]
+            }
+          ]
+        },
+        "type": "MULTI_COLUMN_ITEM"
+      },
+      {
+        "content": {
+          "columns": [
+            {
+              "items": [
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "NORMAL_BOLD",
+                    "label": "Český Krumlov"
+                  },
+                  "type": "TEXT"
+                },
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "SMALL_LIGHT",
+                    "label": "Špičák"
+                  },
+                  "type": "TEXT"
+                }
+              ]
+            }
+          ]
+        },
+        "type": "MULTI_COLUMN_ITEM"
+      },
+      {
+        "content": {
+          "columns": [
+            {
+              "items": [
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "NORMAL_BOLD",
+                    "label": "Děčín"
+                  },
+                  "type": "TEXT"
+                },
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "SMALL_LIGHT",
+                    "label": "Zbrojnická"
+                  },
+                  "type": "TEXT"
+                }
+              ]
+            }
+          ]
+        },
+        "type": "MULTI_COLUMN_ITEM"
+      },
+      {
+        "content": {
+          "columns": [
+            {
+              "items": [
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "NORMAL_BOLD",
+                    "label": "Domažlice"
+                  },
+                  "type": "TEXT"
+                },
+                {
+                  "content": {
+                    "alignment": "LEFT",
+                    "size": "SMALL_LIGHT",
+                    "label": "nám. Míru"
+                  },
+                  "type": "TEXT"
+                }
+              ]
+            }
+          ]
+        },
+        "type": "MULTI_COLUMN_ITEM"
+      }
+    ]
+}
