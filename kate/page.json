@@ -1,274 +1,374 @@
 {
-    "items": [
-      {
-        "content": {
-          "columns": [
-            {
-              "items": [
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "NORMAL_BOLD",
-                    "label": "Benešov"
-                  },
-                  "type": "TEXT"
+  "items": [
+    {
+      "content": {
+        "columns": [
+          {
+            "items": [
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "NORMAL_BOLD",
+                  "label": "Benešov",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "top": "SIZE_LARGE"
+                  }
                 },
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "SMALL_LIGHT",
-                    "label": "Karla Nového"
-                  },
-                  "type": "TEXT"
-                }
-              ]
-            }
-          ]
-        },
-        "type": "MULTI_COLUMN_ITEM"
+                "type": "TEXT"
+              },
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "SMALL_LIGHT",
+                  "label": "Karla Nového",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "bottom": "SIZE_LARGE"
+                  }
+                },
+                "type": "TEXT"
+              }
+            ]
+          }
+        ]
       },
-      {
-        "content": {
-          "columns": [
-            {
-              "items": [
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "NORMAL_BOLD",
-                    "label": "Beroun"
-                  },
-                  "type": "TEXT"
+      "type": "MULTI_COLUMN_ITEM"
+    },
+    {
+      "content": {
+        "columns": [
+          {
+            "items": [
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "NORMAL_BOLD",
+                  "label": "Beroun",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "top": "SIZE_LARGE"
+                  }
                 },
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "SMALL_LIGHT",
-                    "label": "Husovo nám."
-                  },
-                  "type": "TEXT"
-                }
-              ]
-            }
-          ]
-        },
-        "type": "MULTI_COLUMN_ITEM"
+                "type": "TEXT"
+              },
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "SMALL_LIGHT",
+                  "label": "Husovo nám.",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "bottom": "SIZE_LARGE"
+                  }
+                },
+                "type": "TEXT"
+              }
+            ]
+          }
+        ]
       },
-      {
-        "content": {
-          "columns": [
-            {
-              "items": [
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "NORMAL_BOLD",
-                    "label": "Brno"
-                  },
-                  "type": "TEXT"
+      "type": "MULTI_COLUMN_ITEM"
+    },
+    {
+      "content": {
+        "columns": [
+          {
+            "items": [
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "NORMAL_BOLD",
+                  "label": "Brno",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "top": "SIZE_LARGE"
+                  }
                 },
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "SMALL_LIGHT",
-                    "label": "Milady Horákové"
-                  },
-                  "type": "TEXT"
-                }
-              ]
-            }
-          ]
-        },
-        "type": "MULTI_COLUMN_ITEM"
+                "type": "TEXT"
+              },
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "SMALL_LIGHT",
+                  "label": "Milady Horákové",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "bottom": "SIZE_LARGE"
+                  }
+                },
+                "type": "TEXT"
+              }
+            ]
+          }
+        ]
       },
-      {
-        "content": {
-          "columns": [
-            {
-              "items": [
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "NORMAL_BOLD",
-                    "label": "Brno"
-                  },
-                  "type": "TEXT"
+      "type": "MULTI_COLUMN_ITEM"
+    },
+    {
+      "content": {
+        "columns": [
+          {
+            "items": [
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "NORMAL_BOLD",
+                  "label": "Brno",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "top": "SIZE_LARGE"
+                  }
                 },
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "SMALL_LIGHT",
-                    "label": "Veveří"
-                  },
-                  "type": "TEXT"
-                }
-              ]
-            }
-          ]
-        },
-        "type": "MULTI_COLUMN_ITEM"
+                "type": "TEXT"
+              },
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "SMALL_LIGHT",
+                  "label": "Veveří",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "bottom": "SIZE_LARGE"
+                  }
+                },
+                "type": "TEXT"
+              }
+            ]
+          }
+        ]
       },
-      {
-        "content": {
-          "columns": [
-            {
-              "items": [
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "NORMAL_BOLD",
-                    "label": "Česká Lípa"
-                  },
-                  "type": "TEXT"
+      "type": "MULTI_COLUMN_ITEM"
+    },
+    {
+      "content": {
+        "columns": [
+          {
+            "items": [
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "NORMAL_BOLD",
+                  "label": "Česká Lípa",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "top": "SIZE_LARGE"
+                  }
                 },
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "SMALL_LIGHT",
-                    "label": "Barvířská"
-                  },
-                  "type": "TEXT"
-                }
-              ]
-            }
-          ]
-        },
-        "type": "MULTI_COLUMN_ITEM"
+                "type": "TEXT"
+              },
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "SMALL_LIGHT",
+                  "label": "Barvířská",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "bottom": "SIZE_LARGE"
+                  }
+                },
+                "type": "TEXT"
+              }
+            ]
+          }
+        ]
       },
-      {
-        "content": {
-          "columns": [
-            {
-              "items": [
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "NORMAL_BOLD",
-                    "label": "České Budějovice"
-                  },
-                  "type": "TEXT"
+      "type": "MULTI_COLUMN_ITEM"
+    },
+    {
+      "content": {
+        "columns": [
+          {
+            "items": [
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "NORMAL_BOLD",
+                  "label": "České Budějovice",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "top": "SIZE_LARGE"
+                  }
                 },
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "SMALL_LIGHT",
-                    "label": "Hroznová"
-                  },
-                  "type": "TEXT"
-                }
-              ]
-            }
-          ]
-        },
-        "type": "MULTI_COLUMN_ITEM"
+                "type": "TEXT"
+              },
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "SMALL_LIGHT",
+                  "label": "Hroznová",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "bottom": "SIZE_LARGE"
+                  }
+                },
+                "type": "TEXT"
+              }
+            ]
+          }
+        ]
       },
-      {
-        "content": {
-          "columns": [
-            {
-              "items": [
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "NORMAL_BOLD",
-                    "label": "České Budějovice"
-                  },
-                  "type": "TEXT"
+      "type": "MULTI_COLUMN_ITEM"
+    },
+    {
+      "content": {
+        "columns": [
+          {
+            "items": [
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "NORMAL_BOLD",
+                  "label": "České Budějovice",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "top": "SIZE_LARGE"
+                  }
                 },
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "SMALL_LIGHT",
-                    "label": "Lannova"
-                  },
-                  "type": "TEXT"
-                }
-              ]
-            }
-          ]
-        },
-        "type": "MULTI_COLUMN_ITEM"
+                "type": "TEXT"
+              },
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "SMALL_LIGHT",
+                  "label": "Lannova",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "bottom": "SIZE_LARGE"
+                  }
+                },
+                "type": "TEXT"
+              }
+            ]
+          }
+        ]
       },
-      {
-        "content": {
-          "columns": [
-            {
-              "items": [
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "NORMAL_BOLD",
-                    "label": "Český Krumlov"
-                  },
-                  "type": "TEXT"
+      "type": "MULTI_COLUMN_ITEM"
+    },
+    {
+      "content": {
+        "columns": [
+          {
+            "items": [
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "NORMAL_BOLD",
+                  "label": "Český Krumlov",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "top": "SIZE_LARGE"
+                  }
                 },
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "SMALL_LIGHT",
-                    "label": "Špičák"
-                  },
-                  "type": "TEXT"
-                }
-              ]
-            }
-          ]
-        },
-        "type": "MULTI_COLUMN_ITEM"
+                "type": "TEXT"
+              },
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "SMALL_LIGHT",
+                  "label": "Špičák",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "bottom": "SIZE_LARGE"
+                  }
+                },
+                "type": "TEXT"
+              }
+            ]
+          }
+        ]
       },
-      {
-        "content": {
-          "columns": [
-            {
-              "items": [
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "NORMAL_BOLD",
-                    "label": "Děčín"
-                  },
-                  "type": "TEXT"
+      "type": "MULTI_COLUMN_ITEM"
+    },
+    {
+      "content": {
+        "columns": [
+          {
+            "items": [
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "NORMAL_BOLD",
+                  "label": "Děčín",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "top": "SIZE_LARGE"
+                  }
                 },
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "SMALL_LIGHT",
-                    "label": "Zbrojnická"
-                  },
-                  "type": "TEXT"
-                }
-              ]
-            }
-          ]
-        },
-        "type": "MULTI_COLUMN_ITEM"
+                "type": "TEXT"
+              },
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "SMALL_LIGHT",
+                  "label": "Zbrojnická",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "bottom": "SIZE_LARGE"
+                  }
+                },
+                "type": "TEXT"
+              }
+            ]
+          }
+        ]
       },
-      {
-        "content": {
-          "columns": [
-            {
-              "items": [
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "NORMAL_BOLD",
-                    "label": "Domažlice"
-                  },
-                  "type": "TEXT"
+      "type": "MULTI_COLUMN_ITEM"
+    },
+    {
+      "content": {
+        "columns": [
+          {
+            "items": [
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "NORMAL_BOLD",
+                  "label": "Domažlice",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "top": "SIZE_LARGE"
+                  }
                 },
-                {
-                  "content": {
-                    "alignment": "LEFT",
-                    "size": "SMALL_LIGHT",
-                    "label": "nám. Míru"
-                  },
-                  "type": "TEXT"
-                }
-              ]
-            }
-          ]
-        },
-        "type": "MULTI_COLUMN_ITEM"
-      }
-    ]
+                "type": "TEXT"
+              },
+              {
+                "content": {
+                  "alignment": "LEFT",
+                  "size": "SMALL_LIGHT",
+                  "label": "nám. Míru",
+                  "margins": {
+                    "left": "SIZE_LARGE",
+                    "right": "SIZE_LARGE",
+                    "bottom": "SIZE_LARGE"
+                  }
+                },
+                "type": "TEXT"
+              }
+            ]
+          }
+        ]
+      },
+      "type": "MULTI_COLUMN_ITEM"
+    }
+  ]
 }
