@@ -33,7 +33,14 @@
               }
             ]
           }
-        ]
+        ],
+        "action": {
+          "type": "BOT_PAYLOAD",
+          "content": {
+            "payload": "/item1"
+          },
+          "removesContainingChatItem": false
+        }
       },
       "type": "MULTI_COLUMN_ITEM"
     },
@@ -70,7 +77,14 @@
               }
             ]
           }
-        ]
+        ],
+        "action": {
+          "type": "BOT_PAYLOAD",
+          "content": {
+            "payload": "/item2"
+          },
+          "removesContainingChatItem": false
+        }
       },
       "type": "MULTI_COLUMN_ITEM"
     },
@@ -107,7 +121,14 @@
               }
             ]
           }
-        ]
+        ],
+        "action": {
+          "type": "BOT_PAYLOAD",
+          "content": {
+            "payload": "/item3"
+          },
+          "removesContainingChatItem": false
+        }
       },
       "type": "MULTI_COLUMN_ITEM"
     },
@@ -144,7 +165,14 @@
               }
             ]
           }
-        ]
+        ],
+        "action": {
+          "type": "BOT_PAYLOAD",
+          "content": {
+            "payload": "/item4"
+          },
+          "removesContainingChatItem": false
+        }
       },
       "type": "MULTI_COLUMN_ITEM"
     },
@@ -181,7 +209,14 @@
               }
             ]
           }
-        ]
+        ],
+        "action": {
+          "type": "BOT_PAYLOAD",
+          "content": {
+            "payload": "/item5"
+          },
+          "removesContainingChatItem": false
+        }
       },
       "type": "MULTI_COLUMN_ITEM"
     },
@@ -218,7 +253,14 @@
               }
             ]
           }
-        ]
+        ],
+        "action": {
+          "type": "BOT_PAYLOAD",
+          "content": {
+            "payload": "/item6"
+          },
+          "removesContainingChatItem": false
+        }
       },
       "type": "MULTI_COLUMN_ITEM"
     },
@@ -255,7 +297,14 @@
               }
             ]
           }
-        ]
+        ],
+        "action": {
+          "type": "BOT_PAYLOAD",
+          "content": {
+            "payload": "/item7"
+          },
+          "removesContainingChatItem": false
+        }
       },
       "type": "MULTI_COLUMN_ITEM"
     },
@@ -292,7 +341,14 @@
               }
             ]
           }
-        ]
+        ],
+        "action": {
+          "type": "BOT_PAYLOAD",
+          "content": {
+            "payload": "/item8"
+          },
+          "removesContainingChatItem": false
+        }
       },
       "type": "MULTI_COLUMN_ITEM"
     },
@@ -329,7 +385,14 @@
               }
             ]
           }
-        ]
+        ],
+        "action": {
+          "type": "BOT_PAYLOAD",
+          "content": {
+            "payload": "/item9"
+          },
+          "removesContainingChatItem": false
+        }
       },
       "type": "MULTI_COLUMN_ITEM"
     },
@@ -366,7 +429,14 @@
               }
             ]
           }
-        ]
+        ],
+        "action": {
+          "type": "BOT_PAYLOAD",
+          "content": {
+            "payload": "/item10"
+          },
+          "removesContainingChatItem": false
+        }
       },
       "type": "MULTI_COLUMN_ITEM"
     }
