@@ -2,46 +2,6 @@
   "items": [
     {
       "content": {
-        "items": [
-          {
-            "content": {
-              "alignment": "LEFT",
-              "size": "NORMAL_BOLD",
-              "label": "Benešov list item",
-              "margins": {
-                "left": "SIZE_LARGE",
-                "right": "SIZE_LARGE",
-                "top": "SIZE_LARGE"
-              }
-            },
-            "type": "TEXT"
-          },
-          {
-            "content": {
-              "alignment": "LEFT",
-              "size": "SMALL_LIGHT",
-              "label": "Karla Nového",
-              "margins": {
-                "left": "SIZE_LARGE",
-                "right": "SIZE_LARGE",
-                "bottom": "SIZE_NORMAL"
-              }
-            },
-            "type": "TEXT"
-          }
-        ],
-        "action": {
-          "type": "BOT_PAYLOAD",
-          "content": {
-            "payload": "/item1"
-          },
-          "removesContainingChatItem": false
-        }
-      },
-      "type": "LIST_ITEM"
-    },
-    {
-      "content": {
         "columns": [
           {
             "items": [
