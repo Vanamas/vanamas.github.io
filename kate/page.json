@@ -1,174 +1,174 @@
 {
   "items": [
     {
+      "type": "LIST_ITEM",
+      "content": {
+        "itemsSpacing": "NORMAL",
+        "action": {
+          "type": "OPEN_URL",
+          "content": {
+            "url": "https://www.seznam.cz",
+            "openMethod": "EXTERNAL_BROWSER"
+          },
+          "removesContainingChatItem": false
+        },
+        "items": [
+          {
+            "type": "MULTI_COLUMN_ITEM",
+            "content": {
+              "columns": [
+                {
+                  "items": [
+                    {
+                      "content": {
+                        "alignment": "LEFT",
+                        "size": "SMALL_LIGHT",
+                        "label": "číslo účtu"
+                      },
+                      "type": "TEXT"
+                    },
+                    {
+                      "content": {
+                        "size": "MEDIUM_BOLD",
+                        "label": "123456-123456789/0300123456-123456789/0300123456-123456789/0300123456-123456789/0300123456-123456789/0300123456-123456789/0300123456-123456789/0300123456-123456789/0300",
+                        "alignment": "LEFT"
+                      },
+                      "type": "TEXT"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "type": "MULTI_COLUMN_ITEM",
+            "content": {
+              "columns": [
+                {
+                  "items": [
+                    {
+                      "content": {
+                        "alignment": "LEFT",
+                        "size": "SMALL_LIGHT",
+                        "label": "čislo protiuctu"
+                      },
+                      "type": "TEXT"
+                    },
+                    {
+                      "content": {
+                        "label": "123456-123456789/0300",
+                        "alignment": "LEFT",
+                        "size": "MEDIUM_BOLD"
+                      },
+                      "type": "TEXT"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "type": "MULTI_COLUMN_ITEM",
+            "content": {
+              "columns": [
+                {
+                  "items": [
+                    {
+                      "content": {
+                        "alignment": "LEFT",
+                        "size": "SMALL_LIGHT",
+                        "label": "datum transakce"
+                      },
+                      "type": "TEXT"
+                    },
+                    {
+                      "content": {
+                        "size": "MEDIUM_BOLD",
+                        "label": "12. 12. 202112. 12. 202112. 12. 202112. 12. 202112. 12. 202112. 12. 202112. 12. 202112. 12. 202112. 12. 2021",
+                        "alignment": "LEFT"
+                      },
+                      "type": "TEXT"
+                    }
+                  ]
+                },
+                {
+                  "items": [
+                    {
+                      "content": {
+                        "alignment": "LEFT",
+                        "label": "částka",
+                        "size": "SMALL_LIGHT"
+                      },
+                      "type": "TEXT"
+                    },
+                    {
+                      "content": {
+                        "alignment": "LEFT",
+                        "size": "MEDIUM_BOLD",
+                        "label": "12 876 Kč"
+                      },
+                      "type": "TEXT"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "type": "MULTI_COLUMN_ITEM",
+            "content": {
+              "columns": [
+                {
+                  "items": [
+                    {
+                      "content": {
+                        "alignment": "LEFT",
+                        "size": "SMALL_LIGHT",
+                        "label": "stav"
+                      },
+                      "type": "TEXT"
+                    },
+                    {
+                      "content": {
+                        "size": "MEDIUM_BOLD",
+                        "label": "zaplaceno",
+                        "alignment": "LEFT"
+                      },
+                      "type": "TEXT"
+                    }
+                  ]
+                },
+                {
+                  "items": [
+                    {
+                      "content": {
+                        "alignment": "LEFT",
+                        "label": "variabilní symbol",
+                        "size": "SMALL_LIGHT"
+                      },
+                      "type": "TEXT"
+                    },
+                    {
+                      "content": {
+                        "alignment": "LEFT",
+                        "size": "MEDIUM_BOLD",
+                        "label": "123456789"
+                      },
+                      "type": "TEXT"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
       "content": {
         "columns": [
           {
             "items": [
-              {
-                "type": "LIST_ITEM",
-                "content": {
-                  "itemsSpacing": "NORMAL",
-                  "action": {
-                    "type": "OPEN_URL",
-                    "content": {
-                      "url": "https://www.seznam.cz",
-                      "openMethod": "EXTERNAL_BROWSER"
-                    },
-                    "removesContainingChatItem": false
-                  },
-                  "items": [
-                    {
-                      "type": "MULTI_COLUMN_ITEM",
-                      "content": {
-                        "columns": [
-                          {
-                            "items": [
-                              {
-                                "content": {
-                                  "alignment": "LEFT",
-                                  "size": "SMALL_LIGHT",
-                                  "label": "číslo účtu"
-                                },
-                                "type": "TEXT"
-                              },
-                              {
-                                "content": {
-                                  "size": "MEDIUM_BOLD",
-                                  "label": "123456-123456789/0300123456-123456789/0300123456-123456789/0300123456-123456789/0300123456-123456789/0300123456-123456789/0300123456-123456789/0300123456-123456789/0300",
-                                  "alignment": "LEFT"
-                                },
-                                "type": "TEXT"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    },
-                    {
-                      "type": "MULTI_COLUMN_ITEM",
-                      "content": {
-                        "columns": [
-                          {
-                            "items": [
-                              {
-                                "content": {
-                                  "alignment": "LEFT",
-                                  "size": "SMALL_LIGHT",
-                                  "label": "čislo protiuctu"
-                                },
-                                "type": "TEXT"
-                              },
-                              {
-                                "content": {
-                                  "label": "123456-123456789/0300",
-                                  "alignment": "LEFT",
-                                  "size": "MEDIUM_BOLD"
-                                },
-                                "type": "TEXT"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    },
-                    {
-                      "type": "MULTI_COLUMN_ITEM",
-                      "content": {
-                        "columns": [
-                          {
-                            "items": [
-                              {
-                                "content": {
-                                  "alignment": "LEFT",
-                                  "size": "SMALL_LIGHT",
-                                  "label": "datum transakce"
-                                },
-                                "type": "TEXT"
-                              },
-                              {
-                                "content": {
-                                  "size": "MEDIUM_BOLD",
-                                  "label": "12. 12. 202112. 12. 202112. 12. 202112. 12. 202112. 12. 202112. 12. 202112. 12. 202112. 12. 202112. 12. 2021",
-                                  "alignment": "LEFT"
-                                },
-                                "type": "TEXT"
-                              }
-                            ]
-                          },
-                          {
-                            "items": [
-                              {
-                                "content": {
-                                  "alignment": "LEFT",
-                                  "label": "částka",
-                                  "size": "SMALL_LIGHT"
-                                },
-                                "type": "TEXT"
-                              },
-                              {
-                                "content": {
-                                  "alignment": "LEFT",
-                                  "size": "MEDIUM_BOLD",
-                                  "label": "12 876 Kč"
-                                },
-                                "type": "TEXT"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    },
-                    {
-                      "type": "MULTI_COLUMN_ITEM",
-                      "content": {
-                        "columns": [
-                          {
-                            "items": [
-                              {
-                                "content": {
-                                  "alignment": "LEFT",
-                                  "size": "SMALL_LIGHT",
-                                  "label": "stav"
-                                },
-                                "type": "TEXT"
-                              },
-                              {
-                                "content": {
-                                  "size": "MEDIUM_BOLD",
-                                  "label": "zaplaceno",
-                                  "alignment": "LEFT"
-                                },
-                                "type": "TEXT"
-                              }
-                            ]
-                          },
-                          {
-                            "items": [
-                              {
-                                "content": {
-                                  "alignment": "LEFT",
-                                  "label": "variabilní symbol",
-                                  "size": "SMALL_LIGHT"
-                                },
-                                "type": "TEXT"
-                              },
-                              {
-                                "content": {
-                                  "alignment": "LEFT",
-                                  "size": "MEDIUM_BOLD",
-                                  "label": "123456789"
-                                },
-                                "type": "TEXT"
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    }
-                  ]
-                }
-              },
               {
                 "content": {
                   "alignment": "LEFT",
